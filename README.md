@@ -1,5 +1,13 @@
-### Hi there 👋
-![Twitter Follow](https://img.shields.io/twitter/follow/nikitas_io?label=Nikitas%20I%2FO&style=social)
+### [Nikitas I/O](https://nikitas.io) 
+Software Engineer, Project Manager & Brand Developer. 
+Generating ideas & implementing them 💡🇬🇷
+
+![Twitter Follow](https://img.shields.io/twitter/follow/nikitas_io?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/nikitas-io?label=Follow&style=social)
+
+📫 How to reach me:
+- [Telegram](https://t.me/nikitas_io)
+- [LinkedIn](https://www.linkedin.com/in/nikitas-io/)
 
 
 <!--
