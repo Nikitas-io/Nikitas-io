@@ -5,17 +5,10 @@ Software Engineer, Project Manager & Brand Developer.
 Message me on:
 - [Telegram](https://t.me/nikitas_io)
 - [LinkedIn](https://www.linkedin.com/in/nikitas-io/)
+- [Twitter](https://twitter.com/nikitas_io)
 
-
-Follow me on:
-
-![Twitter Follow](https://img.shields.io/twitter/follow/nikitas_io?label=Twitter&style=social)
-[![LinkedIn][linkedin-shield]][linkedin-url]
 ![Computer](https://user-images.githubusercontent.com/22666742/117654012-d9621e00-b19d-11eb-8e3c-c1a03c13acfb.gif)
 ### Nikitas Chatzipazarlis / Νικήτας Χατζηπαζαρλής
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/nikitas-io
 
 
 
