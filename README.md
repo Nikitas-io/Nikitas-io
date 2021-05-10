@@ -1,5 +1,6 @@
-## [Nikitas I/O](https://nikitas.io) 
-Software Engineer, Project Manager & Brand Developer. Generating ideas & implementing them 💡
+## [Nikitas I/O](https://nikitas.io) - Generating ideas & implementing them 💡
+Software Engineer, Project Manager & Brand Developer. 
+
 
 📫 How to reach me:
 - [Telegram](https://t.me/nikitas_io)
@@ -8,7 +9,7 @@ Software Engineer, Project Manager & Brand Developer. Generating ideas & impleme
 ![Twitter Follow](https://img.shields.io/twitter/follow/nikitas_io?label=Twitter&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/nikitas-io?label=Github&style=social)
 ![Computer](https://user-images.githubusercontent.com/22666742/117654012-d9621e00-b19d-11eb-8e3c-c1a03c13acfb.gif)
-
+### Nikitas Chatzipazarlis / Νικήτας Χατζηπαζαρλής
 
 
 
