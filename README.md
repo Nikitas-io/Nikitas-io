@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Twitter Follow](https://img.shields.io/twitter/follow/nikitas_io?label=Nikitas%20I%2FO&style=social)
+
 
 <!--
 **Nikitas-io/Nikitas-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
