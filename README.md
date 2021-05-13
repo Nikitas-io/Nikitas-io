@@ -1,6 +1,6 @@
 ## [Nikitas I/O](https://nikitas.io) - Generating ideas & implementing them 💡
 Software Engineer, Project Manager & Brand Developer. 
-
+Working from Greece 🇬🇷
 
 Message me on:
 - [Telegram](https://t.me/nikitas_io)
