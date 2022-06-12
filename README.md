@@ -8,7 +8,7 @@ Message me on:
 - [StackOverflow](https://stackoverflow.com/users/10850718/nikitas-io)
 
 ![Computer](https://user-images.githubusercontent.com/22666742/117654012-d9621e00-b19d-11eb-8e3c-c1a03c13acfb.gif)
-### Nikitas Chatzipazarlis / Νικήτας Χατζηπαζαρλής
+### Nikitas Chatzipazarlis / Νικήτας Χατζηπαζαρλής / Νικητας Χατζηπαζαρλης
 
 
 
