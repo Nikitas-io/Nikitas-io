@@ -1,7 +1,7 @@
 ## [Nikitas I/O](https://nikitas.io) - Generating ideas & implementing them 💡
 Software Engineer, Project Manager & Storyteller.
 
-[![Turning a page (poem)](https://youtube-md.vercel.app/oFautYgMwrA)](https://www.youtube.com/watch?v=oFautYgMwrA)
+[![Turning a page](http://img.youtube.com/vi/oFautYgMwrA/0.jpg)](http://www.youtube.com/watch?v=oFautYgMwrA "Turning a page")
 
 Message me on:
 - [Telegram](https://t.me/nikitas_io)
