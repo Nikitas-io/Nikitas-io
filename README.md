@@ -1,7 +1,7 @@
 ## [Nikitas I/O](https://nikitas.io) - Generating ideas & implementing them 💡
 Software Engineer, Project Manager & Storyteller.
 
-[![](https://markdown-videos.deta.dev/youtube/{oFautYgMwrA})](https://youtu.be/{oFautYgMwrA})
+[![Turning a page (poem)](https://youtube-md.vercel.app/oFautYgMwrA)](https://www.youtube.com/watch?v=oFautYgMwrA)
 
 Message me on:
 - [Telegram](https://t.me/nikitas_io)
