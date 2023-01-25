@@ -8,7 +8,7 @@ Find me on:
 - [<img alt="holisitc_developer | twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> Twitter](https://twitter.com/nikitas_io)
 - [<img alt="holisitc_developer | youtube" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> Youtube](https://youtube.com/@nikitas_io)
 
-## My Github Stats :trophy:
+## My Github Stats
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikitas-io&theme=github_dark)
 
@@ -206,7 +206,7 @@ Find me on:
 
 
   
-<h3 align="left">Nikitas Chatzipazarlis / Νικήτας Χατζηπαζαρλής / Νικητας Χατζηπαζαρλης</h3>
+<h4 align="left">Nikitas Chatzipazarlis / Νικήτας Χατζηπαζαρλής / Νικητας Χατζηπαζαρλης</h4>
 <a href="https://github.com/JubayerRiyad?tab=followers">
    <img src="https://img.shields.io/github/followers/Nikitas-io?label=Followers&style=social" alt="GitHub Badge">
 </a>
