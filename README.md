@@ -207,7 +207,7 @@ Find me on:
 
   
 <h5 align="left">Nikitas Chatzipazarlis / Νικήτας Χατζηπαζαρλής / Νικητας Χατζηπαζαρλης</h5>
-<a href="https://github.com/JubayerRiyad?tab=followers">
+<a href="https://github.com/Nikitas-io?tab=followers">
    <img src="https://img.shields.io/github/followers/Nikitas-io?label=Followers&style=social" alt="GitHub Badge">
 </a>
 
