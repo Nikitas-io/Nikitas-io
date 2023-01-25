@@ -7,6 +7,10 @@ Find me on:
 - [<img alt="holisitc_developer | twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> Twitter](https://twitter.com/nikitas_io)
 - [<img alt="holisitc_developer | youtube" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> Youtube](https://youtube.com/@nikitas_io)
 
+## My Github Stats :trophy:
+
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikitas-io&theme=github_dark)
+
 <!--
 ## Tools and technologies I've worked with ⚙️ 
 
