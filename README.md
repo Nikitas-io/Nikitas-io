@@ -1,4 +1,5 @@
-## [Nikitas I/O](https://nikitas.io) - Freelance Software Engineer 💡
+## [Nikitas I/O](https://nikitas.io) - Software Engineer 
+### Generating ideas and implementing them 💡
 
 Find me on:
 - [<img alt="holisitc_developer | telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /> Telegram](https://t.me/nikitas_io)
