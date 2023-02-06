@@ -12,7 +12,7 @@ Find me on:
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikitas-io&theme=github_dark)
 <br />
-This chart does NOT include private contributions
+This chart does **NOT** include private contributions
 
 <!--
 ## Tools and technologies I've worked with ⚙️ 
