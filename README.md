@@ -5,8 +5,6 @@ Find me on:
 - [<img alt="holisitc_developer | telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /> Telegram](https://t.me/nikitas_io)
 - [<img alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn](https://www.linkedin.com/in/nikitas-io/) 
 - [<img alt="holisitc_developer | stackoverflow" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /> Stack Overflow](https://stackoverflow.com/users/10850718/nikitas-io)
-- [<img alt="holisitc_developer | twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> Twitter](https://twitter.com/nikitas_io)
-- [<img alt="holisitc_developer | youtube" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> Youtube](https://youtube.com/@nikitas_io)
 
 ## My Public Github Contributions
 
