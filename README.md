@@ -1,11 +1,6 @@
 ## [Nikitas I/O](https://nikitas.io) - Software Engineer 
-### Generating ideas and implementing them 💡
 
-Find me on:
-- [<img alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn](https://www.linkedin.com/in/nikitas-io/) 
-- [<img alt="holisitc_developer | stackoverflow" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /> Stack Overflow](https://stackoverflow.com/users/10850718/nikitas-io)
-- [<img alt="holisitc_developer | gitlab" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /> Gitlab](https://gitlab.com/nikitas-io)
-- [<img alt="holisitc_developer | youtube" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> YouTube](https://youtube.com/@nikitas_io)
+Find me on: [LinkedIn](https://www.linkedin.com/in/nikitas-io/), [Stack Overflow](https://stackoverflow.com/users/10850718/nikitas-io) & [YouTube](https://youtube.com/@nikitas_io)
 
 ## My Public Github Contributions
 
