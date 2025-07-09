@@ -1,6 +1,6 @@
 ## [Nikitas I/O](https://nikitas.io) - Software Engineer 
 
-Find me on: [LinkedIn](https://www.linkedin.com/in/nikitas-io/), [Stack Overflow](https://stackoverflow.com/users/10850718/nikitas-io) & [YouTube](https://youtube.com/@nikitas_io)
+Find me on: [LinkedIn](https://www.linkedin.com/in/nikitas-io/), [Stack Overflow](https://stackoverflow.com/users/10850718/nikitas-io), [Behance](https://www.behance.net/nikitas_io#) & [YouTube](https://youtube.com/@nikitas_io)
 
 ## My Public Github Contributions
 
